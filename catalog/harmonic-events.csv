@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+ugm01,1,0,A,pack-local equal-tempered pitch collection,45 48 51,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,2,1920,A,pack-local equal-tempered pitch collection,45 48 51,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,3,3840,A,pack-local equal-tempered pitch collection,45 48 51,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,4,5760,A,pack-local equal-tempered pitch collection,45 48 51,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,5,7680,A,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,6,9600,A,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,7,11520,A,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,8,13440,A,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,9,15360,A,pack-local equal-tempered pitch collection,50 53 56,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,10,17280,A,pack-local equal-tempered pitch collection,50 53 56,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,11,19200,A,pack-local equal-tempered pitch collection,50 53 56,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,12,21120,A,pack-local equal-tempered pitch collection,50 53 56,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,13,23040,A,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,14,24960,A,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,15,26880,A,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,16,28800,A,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,17,30720,A,pack-local equal-tempered pitch collection,45 48 51,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,18,32640,A,pack-local equal-tempered pitch collection,45 48 51,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,19,34560,A,pack-local equal-tempered pitch collection,45 48 51,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,20,36480,A,pack-local equal-tempered pitch collection,45 48 51,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,21,38400,A,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,22,40320,A,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,23,42240,A,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,24,44160,A,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,25,46080,A,pack-local equal-tempered pitch collection,50 53 56,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,26,48000,A,pack-local equal-tempered pitch collection,50 53 56,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,27,49920,A,pack-local equal-tempered pitch collection,50 53 56,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,28,51840,A,pack-local equal-tempered pitch collection,50 53 56,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,29,53760,A,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,30,55680,A,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,31,57600,A,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm01,32,59520,A,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Initial cell establishes the material.
+ugm02,1,0,C,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,2,1920,C,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,3,3840,C,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,4,5760,C,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,5,7680,C,pack-local equal-tempered pitch collection,53 56 59,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,6,9600,C,pack-local equal-tempered pitch collection,53 56 59,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,7,11520,C,pack-local equal-tempered pitch collection,53 56 59,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,8,13440,C,pack-local equal-tempered pitch collection,53 56 59,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,9,15360,C,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,10,17280,C,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,11,19200,C,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,12,21120,C,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,13,23040,C,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,14,24960,C,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,15,26880,C,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,16,28800,C,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,17,30720,C,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,18,32640,C,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,19,34560,C,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,20,36480,C,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,21,38400,C,pack-local equal-tempered pitch collection,53 56 59,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,22,40320,C,pack-local equal-tempered pitch collection,53 56 59,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,23,42240,C,pack-local equal-tempered pitch collection,53 56 59,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,24,44160,C,pack-local equal-tempered pitch collection,53 56 59,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,25,46080,C,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,26,48000,C,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,27,49920,C,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,28,51840,C,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,29,53760,C,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,30,55680,C,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,31,57600,C,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm02,32,59520,C,pack-local equal-tempered pitch collection,48 51 54,Angular minor-key motifs and low monophonic responses. Statement introduces a different contour.
+ugm03,1,0,D#,pack-local equal-tempered pitch collection,56 59 62,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,2,1920,D#,pack-local equal-tempered pitch collection,56 59 62,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,3,3840,D#,pack-local equal-tempered pitch collection,56 59 62,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,4,5760,D#,pack-local equal-tempered pitch collection,56 59 62,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,5,7680,D#,pack-local equal-tempered pitch collection,54 57 60,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,6,9600,D#,pack-local equal-tempered pitch collection,54 57 60,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,7,11520,D#,pack-local equal-tempered pitch collection,54 57 60,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,8,13440,D#,pack-local equal-tempered pitch collection,54 57 60,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,9,15360,D#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,10,17280,D#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,11,19200,D#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,12,21120,D#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,13,23040,D#,pack-local equal-tempered pitch collection,52 55 58,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,14,24960,D#,pack-local equal-tempered pitch collection,52 55 58,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,15,26880,D#,pack-local equal-tempered pitch collection,52 55 58,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,16,28800,D#,pack-local equal-tempered pitch collection,52 55 58,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,17,30720,D#,pack-local equal-tempered pitch collection,56 59 62,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,18,32640,D#,pack-local equal-tempered pitch collection,56 59 62,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,19,34560,D#,pack-local equal-tempered pitch collection,56 59 62,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,20,36480,D#,pack-local equal-tempered pitch collection,56 59 62,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,21,38400,D#,pack-local equal-tempered pitch collection,54 57 60,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,22,40320,D#,pack-local equal-tempered pitch collection,54 57 60,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,23,42240,D#,pack-local equal-tempered pitch collection,54 57 60,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,24,44160,D#,pack-local equal-tempered pitch collection,54 57 60,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,25,46080,D#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,26,48000,D#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,27,49920,D#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,28,51840,D#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,29,53760,D#,pack-local equal-tempered pitch collection,52 55 58,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,30,55680,D#,pack-local equal-tempered pitch collection,52 55 58,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,31,57600,D#,pack-local equal-tempered pitch collection,52 55 58,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm03,32,59520,D#,pack-local equal-tempered pitch collection,52 55 58,Angular minor-key motifs and low monophonic responses. Contrast moves the accent map.
+ugm04,1,0,A#,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,2,1920,A#,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,3,3840,A#,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,4,5760,A#,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,5,7680,A#,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,6,9600,A#,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,7,11520,A#,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,8,13440,A#,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,9,15360,A#,pack-local equal-tempered pitch collection,47 50 53,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,10,17280,A#,pack-local equal-tempered pitch collection,47 50 53,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,11,19200,A#,pack-local equal-tempered pitch collection,47 50 53,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,12,21120,A#,pack-local equal-tempered pitch collection,47 50 53,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,13,23040,A#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,14,24960,A#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,15,26880,A#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,16,28800,A#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,17,30720,A#,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,18,32640,A#,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,19,34560,A#,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,20,36480,A#,pack-local equal-tempered pitch collection,49 52 55,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,21,38400,A#,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,22,40320,A#,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,23,42240,A#,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,24,44160,A#,pack-local equal-tempered pitch collection,46 49 52,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,25,46080,A#,pack-local equal-tempered pitch collection,47 50 53,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,26,48000,A#,pack-local equal-tempered pitch collection,47 50 53,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,27,49920,A#,pack-local equal-tempered pitch collection,47 50 53,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,28,51840,A#,pack-local equal-tempered pitch collection,47 50 53,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,29,53760,A#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,30,55680,A#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,31,57600,A#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.
+ugm04,32,59520,A#,pack-local equal-tempered pitch collection,51 54 57,Angular minor-key motifs and low monophonic responses. Return keeps the identity while changing one placement.

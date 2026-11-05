@@ -1,0 +1,26 @@
+{
+  "title": "UK Grime Melodies",
+  "study": "ugm01",
+  "bpm": 140,
+  "source_audio": "preview/uk-grime-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "3a06fa90c3daf248fba78e0a7be4b47d1f8a0971da2b683f5ae1c79bbf44a739",
+  "source_midi": "midi/ugm01-underpass/ugm01-underpass-combined.mid",
+  "source_midi_sha256": "61baaa193cf9d6bd61ba9da844c438ee2b4191e58bb02b1b5f0f0d1b659106db",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "3fdb638f353d667641c3992576ee47c65bb52069cdfa59a27bc068740861b867",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "c9d5a6d2353825e005667511c9d0757d0c3574f2bbc448bcd1cc92135aeea7c1",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "d7b7a39d35d17c7739b9879d3b42705d1c6d215d6585d422d31f664bf142f6bb",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

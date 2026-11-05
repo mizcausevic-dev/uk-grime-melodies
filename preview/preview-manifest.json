@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/uk-grime-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "3a06fa90c3daf248fba78e0a7be4b47d1f8a0971da2b683f5ae1c79bbf44a739",
+  "source_midi_path": "midi/ugm01-underpass/ugm01-underpass-combined.mid",
+  "source_midi_sha256": "61baaa193cf9d6bd61ba9da844c438ee2b4191e58bb02b1b5f0f0d1b659106db",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "ugm01",
+    "start_seconds": 0,
+    "end_seconds": 54.857
+  },
+  "measurement": {
+    "sample_peak": 0.119108,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

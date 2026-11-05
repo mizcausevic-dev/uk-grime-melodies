@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ugm01,Underpass,pack-local equal-tempered pitch collection,A,140,4/4,480,32,61440,midi/ugm01-underpass/ugm01-underpass-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ugm02,Amber Wall,pack-local equal-tempered pitch collection,C,140,4/4,480,32,61440,midi/ugm02-amber-wall/ugm02-amber-wall-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ugm03,Hard Shadow,pack-local equal-tempered pitch collection,D#,140,4/4,480,32,61440,midi/ugm03-hard-shadow/ugm03-hard-shadow-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ugm04,Night Reply,pack-local equal-tempered pitch collection,A#,140,4/4,480,32,61440,midi/ugm04-night-reply/ugm04-night-reply-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

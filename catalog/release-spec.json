@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "uk-grime-melodies",
+  "display_name": "UK Grime Melodies Studies",
+  "brief_name": "UK Grime Melodies",
+  "creative_intention": "Angular minor-key motifs and low monophonic responses.",
+  "rhythmic_direction": "Sparse half-time accents leave space around the lead.",
+  "palette": "Synth lead, bass, chord punctuations and drums.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack uk-grime-melodies",
+  "actual_tempo_bpm": 140,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "ugm01",
+      "title": "Underpass",
+      "tonic": "A",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ugm02",
+      "title": "Amber Wall",
+      "tonic": "C",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ugm03",
+      "title": "Hard Shadow",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ugm04",
+      "title": "Night Reply",
+      "tonic": "A#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}
