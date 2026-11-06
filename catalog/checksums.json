@@ -53,8 +53,8 @@
     },
     {
       "path": "catalog/clip-index.csv",
-      "bytes": 1836,
-      "sha256": "20afc356092f02139ac04fc86060fe1138885e2ccffefcc5bfda583afe7b1f1f"
+      "bytes": 1852,
+      "sha256": "7e3d43aee75658b0eb5c51d6f7d4ca09ddf33bab1ad582b90599fa2e51f3a43c"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -113,83 +113,83 @@
     },
     {
       "path": "clips/ugm01-melody-01.mid",
-      "bytes": 131,
-      "sha256": "3abdeb515d1ad65e2c2c4645225f1596cf426cb420aa180235ededf71fd02eef"
+      "bytes": 211,
+      "sha256": "1ee9755ba852130798ca980f16ceaea985f531de70a2812c80f7b928ca97fb3c"
     },
     {
       "path": "clips/ugm01-melody-02.mid",
-      "bytes": 131,
-      "sha256": "4eb39e9de7630118f8860c30475729770e864d38eda16914fb46993eae96e1b9"
+      "bytes": 214,
+      "sha256": "a9036f3bba06753edfda3f69f6462261d4f2a2abd9db6cb347449abe9cc4d0f2"
     },
     {
       "path": "clips/ugm01-melody-03.mid",
-      "bytes": 101,
-      "sha256": "fbe2366f6608b48696071ec93f7ff8a697896a91f4136365ecbec734cc8210d4"
+      "bytes": 213,
+      "sha256": "81c4321d6d560bdeab4da07f68ca1cb9bbeb225701aec03d1ef15f645b597336"
     },
     {
       "path": "clips/ugm01-melody-04.mid",
-      "bytes": 101,
-      "sha256": "2222ccb29eb1ff0786f62fb7efaa078fc2e7bd19b94adb3b9fe920eba3708bb3"
+      "bytes": 213,
+      "sha256": "057d326482d9ac44d2078091cf0aba02cd27102352a514d15a8283fd2703a7fc"
     },
     {
       "path": "clips/ugm02-melody-01.mid",
-      "bytes": 131,
-      "sha256": "da2cb16f1e227e9cc30cf50b004ae2aaa6f52545fdd3ce49439c14ce687452ca"
+      "bytes": 212,
+      "sha256": "768ccad873655400ff4db99ce3eb7f20981f3cf0037d0dc1eb5082d8eaa1f1b0"
     },
     {
       "path": "clips/ugm02-melody-02.mid",
-      "bytes": 131,
-      "sha256": "3f21e7e28735b4b7eb1185c783bb13f9abcffb88244adb9a44a1e4245151d032"
+      "bytes": 214,
+      "sha256": "d911270de27a07b8d81e3c4537e906845f32b5c14b9eb15faa3455adc2c87db7"
     },
     {
       "path": "clips/ugm02-melody-03.mid",
-      "bytes": 101,
-      "sha256": "f1cc98a05ea9db65c7c7aededfa5897c27acf2c49a0c6855a666c43c691fe9fe"
+      "bytes": 213,
+      "sha256": "97109acd0b4cee3a816d24e482374f7b0fb6226df572c816dd35a3c50d332bc3"
     },
     {
       "path": "clips/ugm02-melody-04.mid",
-      "bytes": 101,
-      "sha256": "dc524e8359cf7f96d9cb3a67a1cc1a05df99d2d0629b46abf9e94520f00b0241"
+      "bytes": 214,
+      "sha256": "4fe02cef6d1c271723e95bbb7acf918ecc3badefa1d527a0941544b730ceca4d"
     },
     {
       "path": "clips/ugm03-melody-01.mid",
-      "bytes": 131,
-      "sha256": "89cb16fe60a7a757f7efbb3ebc428fa416d89bb07addf79aded8ff7645809526"
+      "bytes": 214,
+      "sha256": "d63ec1cf88f1e0489ad8df2f4d5f225de0e37a0a4c5ba0cf92db59353b8a62ad"
     },
     {
       "path": "clips/ugm03-melody-02.mid",
-      "bytes": 131,
-      "sha256": "181bc97f8998f868a1e992ff8701e4c22f506960ea593b6e5ce2e366fa472343"
+      "bytes": 213,
+      "sha256": "d57f48549af122661193341e4b1650a64d14e4585eb6e1f233b81d992f245ce3"
     },
     {
       "path": "clips/ugm03-melody-03.mid",
-      "bytes": 91,
-      "sha256": "d490e6e303eeed01543e7e596e268355fb8fa908763d434f8ce90f315dfc1602"
+      "bytes": 213,
+      "sha256": "fd4a49e2f6409bff81fa09b0e8e6c7989cbedbd29425bdddc6a656ed987cf265"
     },
     {
       "path": "clips/ugm03-melody-04.mid",
-      "bytes": 91,
-      "sha256": "5d1ff5b35b753886f6765fb7b1523357f9e1e51bf486a32f323e0cd52631435c"
+      "bytes": 212,
+      "sha256": "5711d55904c0d0051a71b388a0477c407208f18812d9f37045637032f571af9c"
     },
     {
       "path": "clips/ugm04-melody-01.mid",
-      "bytes": 131,
-      "sha256": "6772b802ae06f5d800c3e92fbe8fd7cd93075fd110da1258ed803768dce57153"
+      "bytes": 211,
+      "sha256": "373eab693703538b9d55aca1e6e5a2fe2c5a580581939daa1a92ebd62347554a"
     },
     {
       "path": "clips/ugm04-melody-02.mid",
-      "bytes": 131,
-      "sha256": "32864f07dc6fa9fa1248c883baf3990e1503f8b0c7da6ccbb533cb92f94d63a4"
+      "bytes": 214,
+      "sha256": "cfe4b2bb6c9393a429fd9eca8a9389f6e1ffa361c364cb3f574a68f323ef1e57"
     },
     {
       "path": "clips/ugm04-melody-03.mid",
-      "bytes": 91,
-      "sha256": "8a251f897c9ad754ea92283311ad56aba1266cc2b337d43f0a5231c6c644146b"
+      "bytes": 213,
+      "sha256": "291de911e6f25b0077e1ae1fce1659f21847e874f384f5ef3e925938064ec98e"
     },
     {
       "path": "clips/ugm04-melody-04.mid",
-      "bytes": 91,
-      "sha256": "8102712d6699e7da2c1342d9b5b26d173e5f2a67c75106dabca80fd09932d92d"
+      "bytes": 213,
+      "sha256": "6b259d469901fe712003c30abf099f3a9e09b412ba80e8267ec915c58cb2fc4f"
     },
     {
       "path": "delivery.md",
@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/uk-grime-melodies-midi.zip",
-      "bytes": 26492,
-      "sha256": "64ba8076ea144c1de72fdf38c0d44d6627a61e8d2d8e33308168de12e9dd4824"
+      "bytes": 28427,
+      "sha256": "70e849d7ce249327ab7ad8b19b1a3d70d04e6cc247118f347a4e200d021ab619"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9468,
-      "sha256": "7f5971f36f08c240e1fdbb677a71c67f901426126b9efe9c1411366f5c476409"
+      "bytes": 10473,
+      "sha256": "1f6a33ea6bc4e2371a71eaaf2141db0e1ddcf3204e3cf89d7440071498d809fa"
     },
     {
       "path": "midi/ugm01-underpass/chord_pulse.mid",
@@ -388,8 +388,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3877,
-      "sha256": "e62a8b628d3a99518c51d06dbd0e89b0daa148ae3cb014f8e426850dcc720615"
+      "bytes": 4084,
+      "sha256": "ad52a37d968f5461ae298e8d965465771bab75c6a6e9e1401d38eb6a2109ef53"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -433,8 +433,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 9970,
-      "sha256": "39851a31a5e1301864708783e40146b05fd28c4faaaa9b51fe22c0b82d3f0d0c"
+      "bytes": 10996,
+      "sha256": "3414d99a006ab167211c6e545cc267c8b81f2112261466365550531267688511"
     },
     {
       "path": "tools/render_motion_preview.py",
@@ -445,6 +445,11 @@
       "path": "tools/validate_release.py",
       "bytes": 13763,
       "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 781,
+      "sha256": "93f1d73bfa6eb7da1d724a6388bfe1cf1717a8fffcbd3bbdef58674e0c16a648"
     }
   ]
 }

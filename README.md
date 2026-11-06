@@ -57,3 +57,7 @@ This pack also includes 16 four-bar standalone MIDI clips in `clips/`, indexed i
 The 18-second animated MIDI-note visualizer uses the first 18 seconds of the canonical MIDI-derived preview. `film/video-manifest.json` records the source hash, excerpt, encoding and caption. Raster art is ai-generated abstract illustration, not a photograph. Social captions and article are drafts. No human listening review is claimed.
 
 To regenerate media after rebuilding, preserve the source image and run `python tools/polish_release.py --root . --image art/illustration-source.png --art-kind ai`. Pillow and FFmpeg are required.
+
+## Melody clip revision
+
+The current archive includes 16 recomposed melody clips. The original `v1.0.0` tag preserves the earlier release. See [REVISION.md](REVISION.md) for verification and review limits.

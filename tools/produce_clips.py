@@ -92,6 +92,18 @@ def main():
                 if kind == "drums":
                     notes = [n for n in notes if not (n[2] == 42 and (n[0] // 480 + study_index + variation) % 5 == 0)]
                     notes.append((120 + study_index * 480 + variation * 90, 45, 39, 50 + variation * 3))
+                if args.pack == "uk-grime-melodies" and kind == "principal_motif":
+                    # Four-bar call-and-response phrases draw on the study's
+                    # pitch palette, with distinct rests and contours.
+                    phrase_maps = ((120, 600, 1080, 1560), (240, 720, 1320), (0, 480, 960, 1440, 1680), (360, 840, 1200, 1680))
+                    contours = ((0, 2, 4, 1, 3), (3, 1, 4, 2, 0), (2, 4, 1, 3, 0), (4, 2, 0, 3, 1))
+                    notes = []
+                    for bar in range(4):
+                        for step, offset in enumerate(phrase_maps[(bar + variation) % 4]):
+                            pitch = study["motif"][contours[variation][(step + bar + study_index) % 5]]
+                            duration = (120, 180, 240)[(step + bar + study_index) % 3]
+                            velocity = (72, 84, 96)[(step + variation) % 3]
+                            notes.append((bar * release.BAR_TICKS + offset, min(duration, release.BAR_TICKS - offset), pitch, velocity))
                 if not notes:
                     raise ValueError(f"Empty clip: {study['id']} {kind} {variation}")
                 label = "drum-pattern" if kind == "drums" else ("chord-progression" if kind == "chords" else ("bass-hook" if kind == "sub_bass" else "melody"))
