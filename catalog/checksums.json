@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/uk-grime-melodies-midi.zip",
-      "bytes": 28427,
-      "sha256": "70e849d7ce249327ab7ad8b19b1a3d70d04e6cc247118f347a4e200d021ab619"
+      "bytes": 29414,
+      "sha256": "e20f1360e90d504d350196ff0702235bb2cc05a7741aa0aa584705893b7e1aba"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10473,
-      "sha256": "1f6a33ea6bc4e2371a71eaaf2141db0e1ddcf3204e3cf89d7440071498d809fa"
+      "bytes": 10663,
+      "sha256": "9e144bdc82d0214188b0f09acacfd639866cd3cea02fde5ce1bc2eb5516d270e"
     },
     {
       "path": "midi/ugm01-underpass/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "f58020e2ba8610e9b4f6ab519f81ad700346c50fd779c892d9ff57451aa88ff0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1129,
       "sha256": "74ef5d5d485fa0f632b4c8bfb05b7cb635b105560a14f77756c7eceeb44fab2a"
@@ -388,8 +393,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4084,
-      "sha256": "ad52a37d968f5461ae298e8d965465771bab75c6a6e9e1401d38eb6a2109ef53"
+      "bytes": 4199,
+      "sha256": "1dddf5e82dc22a81c9603997932e6c3df4b891e8b52ab4ce915616584ee4d652"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 781,
+      "sha256": "93f1d73bfa6eb7da1d724a6388bfe1cf1717a8fffcbd3bbdef58674e0c16a648"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -445,11 +455,6 @@
       "path": "tools/validate_release.py",
       "bytes": 13763,
       "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
-    },
-    {
-      "path": "REVISION.md",
-      "bytes": 781,
-      "sha256": "93f1d73bfa6eb7da1d724a6388bfe1cf1717a8fffcbd3bbdef58674e0c16a648"
     }
   ]
 }
